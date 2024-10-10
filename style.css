@@ -740,6 +740,12 @@ footer h1{
         padding-left: 12px; 
         padding-right: 10px;
 }
+    .logo{
+    width: 70px;
+    height: 70px;
+    margin-top: -38px;
+    margin-left:-10px;
+}
 }
 
 @media screen and (max-width: 400px){
@@ -853,7 +859,6 @@ footer h1{
     }
 
 } 
-
 
 @media screen and (max-width: 730px){
     #port-boxb{
