@@ -743,7 +743,7 @@ footer h1{
     .logo{
     width: 70px;
     height: 70px;
-    margin-top: -16px;
+    margin-top: -10px;
     margin-left: 0px;
 }
 }
@@ -911,7 +911,7 @@ footer h1{
 
         @media screen and (max-width: 500px){
             #box2{
-                flex: 1.t;
+                flex: 1.6;
             }
                 
             }
